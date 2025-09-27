@@ -25,4 +25,3 @@ node nama_file_mu.js
 - Nah, setelah kamu milih, hasilnya langsung keluar deh! Menang atau kalah?! 😜
 - Semoga kamu menang ya! 😎
 
-**NOTE: 90% README FILE INI SAYA BUAT PAKAI AI, GA ADA IDE WKWKKW SRY YA, ATLEAST INI DI KETIK SENDIRI, JADI PAHAM CARA BUAT README FILE YANG NIAT GIMANA**
